@@ -47,6 +47,12 @@ Once the installation is done, enter this command to run the project.
 npm run dev
 ```
 
+## General features
+
+- Toggle **Dark/Light mode**
+
+- Toggle **English/French language**
+
 ## Upcoming features
 
 - **Alerts** (or **Toast** or also **Notifications**) to show a more convincing confirmation of adding/removing an article, processing an order.
