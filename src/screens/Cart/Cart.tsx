@@ -101,11 +101,13 @@ export function CartScreen() {
 													value={order.quantity}
 													className="bg-white text-gray-900 border border-gray-400 hover:border-gray-500 rounded-md p-1 shadow"
 												>
-													{[...Array(cartQuantityLimit).keys()].map((index) => (
-														<option value={index} key={index}>
-															{index}
-														</option>
-													))}
+													{[...Array(cartQuantityLimit + 1).keys()].map(
+														(index) => (
+															<option value={index} key={index}>
+																{index}
+															</option>
+														)
+													)}
 												</select>
 											</div>
 										</div>
