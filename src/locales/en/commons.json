@@ -1,0 +1,25 @@
+{
+	"commons": {
+		"products": "Products",
+		"title": "tailwind tickets",
+		"cart": "Cart",
+		"search": "Search a product...",
+		"filters": "Filters",
+		"filterBy": "Filter by",
+		"asc": "From low to high",
+		"desc": "From high to low",
+		"addToCart": "Add to cart",
+		"emptyCart": "Your cart is empty.",
+		"enjoy": "Enjoy",
+		"summary": "Summary",
+		"totalItems": "Quantity of items:",
+		"subTotal": "Sub-total:",
+		"total": "Total:",
+		"shippingFees": "Shipping fees:",
+		"free": "FREE",
+		"pay": "Pay",
+		"paid": "Order confirmed",
+		"rights": "All rights reserved.",
+		"loading": "Loading..."
+	}
+}
