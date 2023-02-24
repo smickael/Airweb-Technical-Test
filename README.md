@@ -3,13 +3,13 @@
 The goal of this project is to develop the UI of a simple shop, including:
 
 - a _catalog page_ with some features:
-  -- Filter by category
-  -- Filter by price range
-  -- Search bar
+  - Filter by category
+  - Filter by price range
+  - Search bar
 - a _cart page_ where you can:
-  -- Modify the quantity of an item
-  -- Remove an item
-  -- Simulate the payment
+  - Modify the quantity of an item
+  - Remove an item
+  - Simulate the payment
 
 The API has two endpoints, a list of **products** and a list of **categories**.
 
